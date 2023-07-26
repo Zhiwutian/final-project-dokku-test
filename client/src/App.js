@@ -23,7 +23,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>{serverData}</h1>
-        <p>This is a test for redeployment</p>
+        <p>This is a test for redeployment with modified proc</p>
       </header>
     </div>
   );
